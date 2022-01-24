@@ -31,4 +31,7 @@ diffrent tasks.
 
 ![pic](https://user-images.githubusercontent.com/65112738/150630156-2d9fa926-1148-4f31-a230-fc77aefa322c.png)
 
+- ### Explaining user role and permission together.
+
+
 
